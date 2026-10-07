@@ -1,0 +1,111 @@
+Aside Proprietary License 1.0
+
+Copyright (c) 2026 Wenqing Li. All rights reserved except as expressly granted
+below.
+
+1. Scope
+
+This license applies to the Aside software and accompanying documentation
+distributed with this license (the "Software"). "Licensor" means Wenqing Li.
+"You" means the individual or legal entity exercising permissions under this
+license. It covers only rights that Licensor owns or is authorized to license.
+Third-party materials and previously granted rights are addressed in section 5.
+
+2. Free personal and internal use
+
+Subject to this license, Licensor grants you a worldwide, royalty-free,
+non-exclusive license to:
+
+(a) download, install, run, and inspect the Software for personal use or for
+    your organization's internal activities, including commercial work;
+(b) make copies reasonably necessary for those uses, including backups and
+    installation on multiple devices; and
+(c) modify the Software for those uses, keeping the modifications private to
+    you or your organization.
+
+An organization may provide copies to its employees and contractors solely
+for work on its behalf, subject to these terms. The organization is responsible
+for their compliance. This permission does not extend to providing the
+Software to customers or other third parties for their own use.
+
+You may use the Software in paid work and to create deliverables for clients.
+This permission does not allow you to include the Software or its code in
+those deliverables, or to provide access to the Software as a hosted service
+for third parties.
+
+3. Uses requiring separate permission
+
+Except as expressly permitted by this license, by separately granted rights,
+or by applicable law, you must obtain Licensor's prior written permission to:
+
+(a) publish, redistribute, sublicense, sell, rent, or otherwise provide copies
+    of the Software or modified versions to third parties, whether for a fee
+    or free of charge;
+(b) incorporate the Software or any portion of its code into another product,
+    library, plugin, or service, or distribute a derivative product; or
+(c) make the Software or a modified version available as a hosted or managed
+    service for third parties.
+
+Private modifications to Aside itself for the uses in section 2 are permitted
+and are not prohibited product reuse. Linking to official Aside downloads is
+also permitted. Distribution by Licensor and service providers acting on
+Licensor's behalf through channels selected by Licensor is not restricted by
+this section.
+
+This is a proprietary license, not an open-source license. No source code
+delivery is promised. Access to source code, if separately provided, does not
+grant additional reuse or distribution rights.
+
+4. Notices and user content
+
+Keep this license and all applicable copyright, attribution, and third-party
+license notices with copies you make. Do not misrepresent a modified version
+as an official Aside release. No rights to Licensor's trademarks or branding
+are granted, except as necessary to identify the Software and retain notices.
+
+Your notes, comments, attachments, and other content remain yours or their
+respective owners'. This license does not restrict the use or distribution of
+your content or outputs merely because you created or processed them with
+Aside. Any Software code included in an output remains subject to its
+applicable license.
+
+5. Earlier versions, third-party materials, and platform rights
+
+This license applies to copies distributed under it. It does not revoke,
+replace, or restrict permissions already granted for any code or earlier
+version under the MIT License or another license. Recipients may continue to
+exercise those earlier permissions for the material they cover. New material
+distributed only under this license is subject to these terms.
+
+Third-party dependencies and other separately licensed materials retain their
+own licenses. These terms do not override those licenses or claim exclusive
+rights to third-party material. Preserve their required notices.
+
+Nothing here limits rights granted separately through the terms of a hosting
+platform, including rights to view and fork a public repository through
+GitHub's functionality. Those platform permissions do not grant additional
+rights under this license to sell, repackage, or otherwise reuse the Software.
+
+6. Termination
+
+Your permissions under this license terminate if you breach its terms and
+fail to remedy the breach within 30 days after receiving written notice from
+Licensor. After termination, stop exercising the permissions granted by this
+license. Termination does not affect rights you hold under a separate license,
+your ownership of your content, or rights that applicable law preserves.
+
+7. Disclaimer and limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+"AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR SHALL NOT BE LIABLE
+FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS
+USE, WHETHER IN CONTRACT, TORT, OR OTHERWISE. NOTHING IN THIS LICENSE EXCLUDES
+LIABILITY OR RIGHTS THAT CANNOT LAWFULLY BE EXCLUDED.
+
+8. Permission requests
+
+For redistribution, product reuse, or other permissions beyond this license,
+contact Wenqing Li at vickyli819@proton.me. Separate permissions must be in
+writing from Licensor. Rights not expressly granted are reserved.
