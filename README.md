@@ -51,7 +51,7 @@ For durable storage and sync across devices, use Aside with [Obsidian Sync](http
 
 ## How to Get Started
 
-The existing Aside community listing is being connected to this distribution repository. Until that update is complete, use the manual installation instructions below.
+Community directory submission is pending. Until Aside is available there, use the manual installation instructions below.
 
 1. Open **Settings → Community plugins** in Obsidian, find **Aside**, and install and enable it.
 2. Open a file and choose **Add page note**, or select Markdown text or a Canvas card and choose **Add comment to selection**.
@@ -110,6 +110,12 @@ See [Agents and scripts](SCRIPTS.md) for setup and [Scripts and scheduling](docs
 ## Distribution
 
 This repository contains compiled release assets and user documentation. Current development source is maintained separately in a private repository.
+
+## Accounts, network, and file access
+
+- Aside's comment features do not require an Aside account. Optional agents use your installed Codex, Claude Code, Cursor, Gemini, or OpenCode CLI and its configured model provider. These services may require an account or payment. Agent requests can send your request, relevant note content, thread, selection, and file paths to the selected provider to generate replies.
+- On desktop, Aside launches installed CLIs and trusted scripts using your local account permissions. It uses temporary files outside the vault for agent execution. Agents and scripts may access other files and network services within their configured permissions; scripts are not sandboxed. See [Agent access and privacy](SCRIPTS.md#agent-access-and-privacy) before enabling them.
+- The generated Aside Index includes a header image served by `ichef.bbci.co.uk` (BBC); displaying it can contact that host. Remote images and web pages you open can also contact their respective hosts.
 
 ## License
 
