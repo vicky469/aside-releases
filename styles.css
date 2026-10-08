@@ -1893,6 +1893,43 @@ button.aside-filter-chip {
     color: var(--text-normal);
 }
 
+.aside-index-tag-search .aside-tag-related-filter-chip {
+    position: relative;
+    display: inline-flex;
+    min-width: 0;
+}
+
+.aside-index-tag-search .aside-tag-related-filter-chip button.aside-tag-related-filter {
+    padding-right: 24px;
+}
+
+.aside-index-tag-search button.aside-tag-related-filter-exclude {
+    position: absolute;
+    top: 1px;
+    right: 1px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    min-height: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: var(--radius-s);
+    background: transparent;
+    box-shadow: none;
+    color: var(--text-faint);
+    font-size: var(--font-ui-small);
+    line-height: 1;
+    cursor: pointer;
+}
+
+.aside-index-tag-search button.aside-tag-related-filter-exclude:hover {
+    background: var(--background-modifier-hover);
+    color: var(--text-normal);
+}
+
 .aside-index-tag-search .aside-tag-related-files {
     display: flex;
     flex-direction: column;
@@ -1956,7 +1993,8 @@ button.aside-filter-chip {
     pointer-events: none;
 }
 
-.aside-index-tag-search-show-more {
+.aside-index-tag-search-show-more,
+.aside-index-tag-search-reset {
     -webkit-appearance: none;
     appearance: none;
     align-self: flex-start;
@@ -1973,14 +2011,17 @@ button.aside-filter-chip {
     font-size: var(--font-ui-smaller);
 }
 
-.aside-index-tag-search-show-more:hover {
+.aside-index-tag-search-show-more:hover,
+.aside-index-tag-search-reset:hover {
     color: var(--text-accent);
     text-decoration: underline;
 }
 
 .aside-index-tag-search button.aside-tag-related-filter:focus-visible,
 .aside-index-tag-search button.aside-tag-related-file-link:focus-visible,
-.aside-index-tag-search-show-more:focus-visible {
+.aside-index-tag-search button.aside-tag-related-filter-exclude:focus-visible,
+.aside-index-tag-search-show-more:focus-visible,
+.aside-index-tag-search-reset:focus-visible {
     outline: 1px solid var(--interactive-accent);
     outline-offset: 1px;
 }

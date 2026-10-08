@@ -6,8 +6,8 @@
 Aside
 </p>
 <p align="center">
-  <a href="https://github.com/vicky469/aside-releases/releases/tag/2.0.111">
-    <img src="https://img.shields.io/badge/release-2.0.111-22c55e?style=flat-square" alt="Latest release">
+  <a href="https://github.com/vicky469/aside-releases/releases/tag/2.0.112">
+    <img src="https://img.shields.io/badge/release-2.0.112-22c55e?style=flat-square" alt="Latest release">
   </a>
 </p>
 <p align="center">
@@ -61,7 +61,7 @@ Requires Obsidian **1.12.7** or later. To update, select **Check for updates** i
 
 For manual installation, download `main.js`, `manifest.json`, and `styles.css` from the [same release](https://github.com/vicky469/aside-releases/releases/latest), copy them into your vault's `.obsidian/plugins/aside/` folder, and reload Obsidian. Preserve your existing plugin settings and data.
 
-[Community listing](https://community.obsidian.md/plugins/aside) · [Release notes for 2.0.111](docs/releases/2.0.111.md)
+[Community listing](https://community.obsidian.md/plugins/aside) · [Release notes for 2.0.112](docs/releases/2.0.112.md)
 
 ## Workflow
 
