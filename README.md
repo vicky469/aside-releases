@@ -6,8 +6,8 @@
 Aside
 </p>
 <p align="center">
-  <a href="https://github.com/vicky469/aside-releases/releases/tag/2.0.112">
-    <img src="https://img.shields.io/badge/release-2.0.112-22c55e?style=flat-square" alt="Latest release">
+  <a href="https://github.com/vicky469/aside-releases/releases/tag/2.0.113">
+    <img src="https://img.shields.io/badge/release-2.0.113-22c55e?style=flat-square" alt="Latest release">
   </a>
 </p>
 <table>

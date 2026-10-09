@@ -2,11 +2,11 @@
 
 ## Thought Trail
 
-Thought Trail brings vault relationships together through Wikilinks and Tags. Wikilinks follow references between ordinary Markdown notes; Tags show notes that share note or side-note tags. Canvas boards, attachments, and Excalidraw drawings (including drawings stored as `.md`) are excluded from Thought Trail, including their side-comment links.
+Thought Trail brings vault relationships together through Wikilinks and Tags. Wikilinks follow references between ordinary Markdown notes; Tags show notes that share note or side-note tags. Canvas boards, attachments, and Excalidraw drawings (including drawings stored as `.md`) are excluded from Thought Trail, including their side-comment links. Drawing classification is shared with Context in `src/core/files/drawingFileType.ts`.
 
 ## Context
 
-Context provides **Files** followed by **URLs** for the current note or Canvas and its saved side comments. Saved comment bodies are always included in both lists. Short URL labels retain the full destination for opening and copying.
+Context provides **Files** followed by **URLs** for the current note or Canvas and its saved side comments. Use **File** for links in the note or Canvas alone, or **+ Comments** to include saved side comments in both lists. **+ Comments** is selected by default; the choice stays with the current sidebar until it is reopened. Short URL labels retain the full destination for opening and copying.
 
 Files lists resolved vault links and embeds, regardless of folder: Canvas boards, Excalidraw drawings, PDFs, DOCX documents, images, and other attachments. Excalidraw drawings also appear when saved as `.excalidraw.md` or as ordinary `.md` files marked by Excalidraw. For Markdown sources, ordinary Markdown links belong in Thought Trail. For an open Canvas, Files also includes Markdown notes referenced by file cards or text-card links, because Canvas has no Thought Trail. Canvas URL cards and text-card URLs appear under URLs; unsaved board content is read from its current native view. Files are sorted alphabetically by type, then filename. Duplicate references appear once; click a filename to open it through Obsidian.
 
